@@ -1,0 +1,19 @@
+.searchbar {
+  width: 902px;
+
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 0;
+}
+
+.input {
+  width: 300px;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 10px;
+}
+.btn {
+  box-sizing: border-box;
+  padding: 5px;
+  font-size: 15px;
+}
